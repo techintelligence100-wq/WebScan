@@ -88,13 +88,13 @@ No additional packages are required.
 ### Linux / macOS
 
 ```bash
-python3 tech_intelligence.py
+python3 WebScan.py
 ```
 
 ### Windows
 
 ```cmd
-python tech_intelligence.py
+python WebScan.py
 ```
 
 ---
@@ -106,11 +106,11 @@ python tech_intelligence.py
 ```bash
 sudo apt update
 
-git clone https://github.com/YOUR_USERNAME/tech-intelligence.git
+git clone https://github.com/techintelligence100-wq/WebScan.git
 
-cd tech-intelligence
+cd WebScan
 
-python3 tech_intelligence.py
+python3 WebScan.py
 ```
 
 ---
@@ -122,11 +122,11 @@ sudo apt update
 
 sudo apt install python3 python3-venv git -y
 
-git clone https://github.com/YOUR_USERNAME/tech-intelligence.git
+git clone https://github.com/techintelligence100-wq/WebScan.git
 
-cd tech-intelligence
+cd WebScan
 
-python3 tech_intelligence.py
+python3 WebScan.py
 ```
 
 ---
@@ -136,11 +136,11 @@ python3 tech_intelligence.py
 ```bash
 sudo pacman -S python git
 
-git clone https://github.com/YOUR_USERNAME/tech-intelligence.git
+git clone https://github.com/techintelligence100-wq/WebScan.git
 
-cd tech-intelligence
+cd WebScan
 
-python tech_intelligence.py
+python WebScan.py
 ```
 
 ---
@@ -150,11 +150,11 @@ python tech_intelligence.py
 ```bash
 sudo dnf install python3 git
 
-git clone https://github.com/YOUR_USERNAME/tech-intelligence.git
+git clone https://github.com/techintelligence100-wq/WebScan.git
 
-cd tech-intelligence
+cd WebScan
 
-python3 tech_intelligence.py
+python WebScan.py
 ```
 
 ---
@@ -174,19 +174,19 @@ https://www.python.org/downloads/
 3. Clone the repository:
 
 ```cmd
-git clone https://github.com/YOUR_USERNAME/tech-intelligence.git
+git clone https://github.com/techintelligence100-wq/WebScan.git
 ```
 
 4. Open the project directory:
 
 ```cmd
-cd tech-intelligence
+cd WebScan
 ```
 
 5. Run the tool:
 
 ```cmd
-python tech_intelligence.py
+python WebScan.py
 ```
 
 ---
