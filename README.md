@@ -14,10 +14,10 @@
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tech-intelligence.git
+git clone https://github.com/techintelligence100-wq/WebScan.git
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+<!-- Replace `techintelligence100-wq` with your GitHub username. -->
 
 ---
 
