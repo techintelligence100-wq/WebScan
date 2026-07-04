@@ -24,7 +24,7 @@ git clone https://github.com/techintelligence100-wq/WebScan.git
 ## 2. Navigate to the Project
 
 ```bash
-cd tech-intelligence
+cd WebScan
 ```
 
 ---
